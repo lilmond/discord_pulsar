@@ -1,0 +1,18 @@
+## This is a comment.
+## Edit below to customize your emoji.
+
+:: emoji_id = 1236608942248038410
+
+root@user:~$ sudo chmod 777 /root/matrix.py
+So many worlds only you could see. So many mysteries.
+
+## This sets the variable to None
+:: emoji_id = 
+:: emoji_name = 😋
+
+Silly
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+:: emoji_name = ⚠️
+
+Hacking is a dangerous infohazard.
