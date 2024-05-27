@@ -11,6 +11,9 @@ So many worlds only you could see. So many mysteries.
 :: emoji_name = 😋
 
 Silly
+
+:: emoji_name = 😎
+
 https://www.youtube.com/watch?v=jfKfPfyJRdk
 
 :: emoji_name = ⚠️
