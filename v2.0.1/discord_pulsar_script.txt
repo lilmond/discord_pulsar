@@ -1,0 +1,23 @@
+## This is a comment.
+## Edit below to customize your emoji.
+
+:: sleep_time = 1
+:: emoji_id = 1236608942248038410
+
+root@user:~$ sudo chmod 777 /root/matrix.py
+So many worlds only you could see. So many mysteries.
+
+## This sets the variable to None
+:: sleep_time = 2
+:: emoji_id = 
+:: emoji_name = 😋
+
+Silly
+
+:: emoji_name = 😎
+
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+:: emoji_name = ⚠️
+
+Hacking is a dangerous infohazard.
